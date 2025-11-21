@@ -12,6 +12,12 @@
 
 </div>
 
+## Live Demo Screenshots
+
+| Multilingual Query Interface | Infographics & Charts | Market Analytics Dashboard |
+|--------------------------------|---------------------------------------|----------------------------|
+| ![Query in Kazakh/Russian/English](image.png) | ![Answer with source attribution and Plotly charts](image-2.png) | ![Interactive rankings and NPL trends](image-1.png) |
+| Natural language input in any of the three languages | Full answer + direct links to original Excel filings + interactive visualizations | Market overview, leader/tail segmentation, YoY trends |
 ---
 
 ## 📋 Table of Contents
@@ -128,20 +134,6 @@ graph TB
 - 2GB RAM minimum
 - DeepSeek API key (free tier available)
 
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/nbk-mfo-rag.git
-cd nbk-mfo-rag
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-```
 
 ### Configuration
 
