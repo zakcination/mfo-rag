@@ -348,10 +348,10 @@ in the Software without restriction...
 
 ## 📊 Project Statistics
 
-![GitHub stars](https://github.com/zakcination/mfo-rag?style=social)
-![GitHub forks](https://github.com/zakcination/mfo-rag?style=social)
-![GitHub issues](https://img.shields.io/github/issues/zakcination/mfo-rag)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/zakcination/mfo-rag)
+![GitHub stars](https://img.shields.io/github/stars/zakcination/mfo-rag?style=social)
+![GitHub forks](https://img.shields.io/github/forks/zakcination/mfo-rag?style=social)
+![GitHub issues](https://img.shields.io/github/issues/yourusername/nbk-mfo-rag)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/nbk-mfo-rag)
 
 ---
 
