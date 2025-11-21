@@ -298,7 +298,7 @@ answer = rag.ask(question, use_llm=True)
 12 ground-truth questions across 3 categories:
 
 ✅ **Numerical (4/4)** - "What was 2024 NPL?" → 8.45%  
-✅ **Text (4/4)** - "Who was the #1 MFO?" → "Kaspi MFO"  
+✅ **Text (4/4)** - "Who was the #1 MFO?" → "KMF MFO"  
 ✅ **Analytical (3/4)** - "NPL trend 2020-2024?" → Detailed analysis  
 
 See full results: [`output/evaluation_results.json`](output/evaluation_results.json)
@@ -326,22 +326,6 @@ in the Software without restriction...
 
 ---
 
-## 📖 Citation
-
-If you use this project in your research or work, please cite:
-
-```bibtex
-@software{nbk_mfo_rag_2025,
-  title = {NBK Microfinance Market Analysis System},
-  author = {Your Name},
-  year = {2025},
-  url = {https://github.com/yourusername/nbk-mfo-rag},
-  note = {AI-Powered Regulatory Analytics Platform for Kazakhstan's Microfinance Sector}
-}
-```
-
----
-
 ## 🙏 Acknowledgments
 
 - **National Bank of Kazakhstan** - For publicly available regulatory data
@@ -353,27 +337,27 @@ If you use this project in your research or work, please cite:
 
 ## 📞 Contact
 
-**Author:** [Your Name]  
-**Email:** m.zakaryanov@example.com  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-**GitHub:** [@yourusername](https://github.com/yourusername)
+**Author:** [Miras Zakaryanov]  
+**Email:** zakarianov.miras@gmail.com
+**LinkedIn:** [https://www.linkedin.com/in/zakaryanov/](https://www.linkedin.com/in/zakaryanov/)  
+**GitHub:** [@zakcination](https://github.com/zakcination)
 
-**Project Link:** [https://github.com/yourusername/nbk-mfo-rag](https://github.com/yourusername/nbk-mfo-rag)
+**Project Link:** [https://github.com/zakcination/mfo-rag](https://github.com/zakcination/mfo-rag)
 
 ---
 
 ## 📊 Project Statistics
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/nbk-mfo-rag?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/nbk-mfo-rag?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/nbk-mfo-rag)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/nbk-mfo-rag)
+![GitHub stars](https://github.com/zakcination/mfo-rag?style=social)
+![GitHub forks](https://github.com/zakcination/mfo-rag?style=social)
+![GitHub issues](https://img.shields.io/github/issues/zakcination/mfo-rag)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/zakcination/mfo-rag)
 
 ---
 
 <div align="center">
 
-**Built with ❤️ for Kazakhstan's Financial Technology Community**
+**Built with ❤️ for Kazakhstan's Financial DS/ML Engineers Community**
 
 [⬆ Back to Top](#nbk-microfinance-market-analysis-system)
 
